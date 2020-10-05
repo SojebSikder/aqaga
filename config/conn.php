@@ -77,7 +77,7 @@ $config = array(
 
 	//For urls
 	"url" => array(
-		"baseUrl" => "/askMe/"
+		"baseUrl" => "/aqaga/"
 	),
 
 	//For assets paths
